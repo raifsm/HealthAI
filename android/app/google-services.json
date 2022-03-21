@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1008687447755",
+    "project_id": "kk3-21a58",
+    "storage_bucket": "kk3-21a58.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008687447755:android:66fb227965bafae624a54e",
+        "android_client_info": {
+          "package_name": "health.ai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1008687447755-s2tiqoi7uenm6i7por13saa121ac0m01.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDChI347UVFemt7fOmsgcvvUMfVqidrAEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1008687447755-s2tiqoi7uenm6i7por13saa121ac0m01.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1008687447755-p8shkbhdqqoo42q625tei7r8q869ubu9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "health.ai"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
